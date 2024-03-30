@@ -7,7 +7,7 @@ To submit your project, please provide the following:
 - Your last commit hash here.
 - A Google Drive link to a video showing your project working at the given commit hash.
 
-Ensure the Git repo and video are private and shared with: adrien.brousolle@gmail.com
+Ensure the Git repo and video are private and shared with: teacher's email
 
 ## Starting Your Project
 
