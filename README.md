@@ -1,4 +1,4 @@
-# Projet_Scala_M1
+# Scala_M1_Project
 
 # Instructions for Submission
 
